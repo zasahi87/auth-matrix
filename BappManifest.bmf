@@ -3,7 +3,7 @@ ExtensionType: 2
 Name: AuthMatrix
 RepoName: authmatrix
 ScreenVersion: 0.7
-SerialVersion: 7
+SerialVersion: 8
 MinPlatformVersion: 0
 ProOnly: False
 Author: Mick Ayzenberg, Security Innovation
