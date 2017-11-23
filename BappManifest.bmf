@@ -1,9 +1,9 @@
 Uuid: 30d8ee9f40c041b0bfec67441aad158e
 ExtensionType: 2
 Name: AuthMatrix
-RepoName: authmatrix
-ScreenVersion: 0.7
-SerialVersion: 8
+RepoName: auth-matrix
+ScreenVersion: 0.7.1
+SerialVersion: 9
 MinPlatformVersion: 0
 ProOnly: False
 Author: Mick Ayzenberg, Security Innovation
